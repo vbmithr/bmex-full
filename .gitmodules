@@ -1,0 +1,33 @@
+[submodule "ocaml-ipaddr"]
+	path = ocaml-ipaddr
+	url = https://github.com/mirage/ocaml-ipaddr
+[submodule "ocaml-conduit"]
+	path = ocaml-conduit
+	url = https://github.com/mirage/ocaml-conduit
+[submodule "ocaml-cohttp"]
+	path = ocaml-cohttp
+	url = https://github.com/mirage/ocaml-cohttp
+[submodule "ocaml-websocket"]
+	path = ocaml-websocket
+	url = https://github.com/vbmithr/ocaml-websocket
+	branch = wrap-async
+[submodule "ocaml-scid"]
+	path = ocaml-scid
+	url = https://github.com/vbmithr/ocaml-scid
+[submodule "ocaml-tick"]
+	path = ocaml-tick
+	url = https://github.com/vbmithr/ocaml-tick
+[submodule "ocaml-dtc-pb"]
+	path = ocaml-dtc-pb
+	url = https://github.com/vbmithr/ocaml-dtc-pb
+[submodule "bs_devkit"]
+	path = bs_devkit
+	url = https://github.com/vbmithr/bs_devkit
+	branch = next
+[submodule "ocaml-bmex"]
+	path = ocaml-bmex
+	url = https://github.com/vbmithr/ocaml-bmex
+[submodule "bmex"]
+	path = bmex
+	url = https://github.com/vbmithr/bmex
+	branch = next
