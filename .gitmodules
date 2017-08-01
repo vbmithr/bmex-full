@@ -1,12 +1,3 @@
-[submodule "ocaml-ipaddr"]
-	path = ocaml-ipaddr
-	url = https://github.com/mirage/ocaml-ipaddr
-[submodule "ocaml-conduit"]
-	path = ocaml-conduit
-	url = https://github.com/mirage/ocaml-conduit
-[submodule "ocaml-cohttp"]
-	path = ocaml-cohttp
-	url = https://github.com/mirage/ocaml-cohttp
 [submodule "ocaml-websocket"]
 	path = ocaml-websocket
 	url = https://github.com/vbmithr/ocaml-websocket
