@@ -1,7 +1,6 @@
 [submodule "ocaml-websocket"]
 	path = ocaml-websocket
 	url = https://github.com/vbmithr/ocaml-websocket
-	branch = wrap-async
 [submodule "ocaml-scid"]
 	path = ocaml-scid
 	url = https://github.com/vbmithr/ocaml-scid
