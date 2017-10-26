@@ -13,11 +13,15 @@
 [submodule "bs_devkit"]
 	path = bs_devkit
 	url = https://github.com/vbmithr/bs_devkit
-	branch = next
+	branch = gen
 [submodule "ocaml-bmex"]
 	path = ocaml-bmex
 	url = https://github.com/vbmithr/ocaml-bmex
+        branch = gen
 [submodule "bmex"]
 	path = bmex
 	url = https://github.com/vbmithr/bmex
-	branch = next
+	branch = gen
+[submodule "bitmex-types"]
+	path = bitmex-types
+	url = git://github.com/vbmithr/bitmex-types
